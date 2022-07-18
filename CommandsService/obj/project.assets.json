@@ -1057,11 +1057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reshi\\Desktop\\proj\\CommandsService\\CommandsService.csproj",
+      "projectUniqueName": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\CommandsService\\CommandsService.csproj",
       "projectName": "CommandsService",
-      "projectPath": "C:\\Users\\reshi\\Desktop\\proj\\CommandsService\\CommandsService.csproj",
+      "projectPath": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\CommandsService\\CommandsService.csproj",
       "packagesPath": "C:\\Users\\reshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reshi\\Desktop\\proj\\CommandsService\\obj\\",
+      "outputPath": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\CommandsService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

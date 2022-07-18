@@ -37,3 +37,42 @@ C:\Users\reshi\Desktop\proj\CommandsService\obj\Debug\net5.0\CommandsService.dll
 C:\Users\reshi\Desktop\proj\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 C:\Users\reshi\Desktop\proj\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 C:\Users\reshi\Desktop\proj\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\appsettings.json
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.exe
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.deps.json
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.runtimeconfig.json
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.runtimeconfig.dev.json
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\ref\CommandsService.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\CommandsService.pdb
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.csprojAssemblyReference.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.AssemblyInfoInputs.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.AssemblyInfo.cs
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.csproj.CoreCompileInputs.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\staticwebassets\CommandsService.StaticWebAssets.Manifest.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\staticwebassets\CommandsService.StaticWebAssets.xml
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\scopedcss\bundle\CommandsService.styles.css
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.RazorTargetAssemblyInfo.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.csproj.CopyComplete
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.pdb
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache

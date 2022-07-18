@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+iaroGkJ1OSA70IAKMFWOK1ZC0PDAPRb9hDEnH+fyvtdGh3g3n8rhu3G9vy5Zo/Nq9c3pTleDF3Cvm7/+o66g==",
+  "dgSpecHash": "w/yqzHc9DYQ5yqwBMC/pqqSFQwn/T7FPkIaYxUXcstBbWYsAoBZQYvGJJQ8R9afJSwzi7yPU++9vLfkvaX+faA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\reshi\\Desktop\\proj\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reshi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\reshi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
