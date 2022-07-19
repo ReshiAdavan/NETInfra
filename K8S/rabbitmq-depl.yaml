@@ -24,7 +24,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: rabbitmq=clusterip-srv
+  name: rabbitmq-clusterip-srv
 spec:
   type: ClusterIP
   selector:
