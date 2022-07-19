@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reshi\\Desktop\\proj\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reshi\\Desktop\\proj\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reshi\\Desktop\\proj\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\reshi\\Desktop\\proj\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\reshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reshi\\Desktop\\proj\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\reshi\\Desktop\\Reshi Adavan\\ECs\\Projects\\GitHub\\NETInfra\\NETInfra\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,6 +64,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.8, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
