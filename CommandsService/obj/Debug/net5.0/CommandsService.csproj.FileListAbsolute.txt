@@ -78,3 +78,7 @@ C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\Comman
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\appsettings.Production.json
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
