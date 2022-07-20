@@ -1,9 +1,11 @@
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -15,6 +17,7 @@ using PlatformService.Data;
 using Microsoft.EntityFrameworkCore; 
 using PlatformService.SyncDataServices.Http;
 using PlatformService.AsyncDataServices;
+using PlatformService.SyncDataServices.Grpc;
 
 namespace PlatformService
 {
@@ -46,6 +49,7 @@ namespace PlatformService
             services.AddScoped<IPlatformRepo, PlatformRepo>(); 
             services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>(); 
             services.AddSingleton<IMessageBusClient, MessageBusClient>(); 
+            services.AddGrpc(); 
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
             services.AddSwaggerGen(c =>
@@ -72,6 +76,11 @@ namespace PlatformService
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapGrpcService<GrpcPlatformService>(); 
+                endpoints.MapGet("/protos/platforms.proto", async context => 
+                {
+                    await context.Response.WriteAsync(File.ReadAllText("Protos/platforms.proto"));
+                });
             });
             PrepDb.PrepPopulation(app, env.IsProduction()); 
         }

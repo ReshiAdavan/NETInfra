@@ -129,3 +129,10 @@ C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\Platfo
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\obj\Debug\net5.0\PlatformService.RazorTargetAssemblyInfo.cache
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\obj\Debug\net5.0\PlatformService.csproj.CopyComplete
 C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\reshi\Desktop\Reshi Adavan\ECs\Projects\GitHub\NETInfra\NETInfra\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll
