@@ -12,15 +12,15 @@ P.S: I decided to expand on my CommandSnippetAPI project by adding more services
 
 #### Solution Architecture
 
-![Solution](Graphics/SolutionArchitecture.png)
+![Solution](Graphics/CommandServiceArchitecture.PNG)
 
 #### Platform Service Architecture
 
-![Platform](Graphics/PlatformServiceArchitecture.png)
+![Platform](Graphics/PlatformServiceArchitecture.PNG)
 
 #### Command Service Architecture
 
-![Command](Graphics/CommandServiceArchitecture.png)
+![Command](Graphics/CommandServiceArchitecture.PNG)
 
 ### DevOps
 
