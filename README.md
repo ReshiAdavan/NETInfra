@@ -46,4 +46,4 @@ P.S: I decided to expand on my CommandSnippetAPI project by adding more services
 - Commands Service
   - Handles management of commands.
   - Receives platforms from message broker and associates them to commands.
-  - Automatically updates Platform Service when commands are attached to platforms
+  - Automatically updates Platform Service when commands are attached to platforms.
