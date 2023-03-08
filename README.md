@@ -8,17 +8,17 @@ Hence the creation of NETInfra, a infrastructure management tool for software te
 
 P.S: I decided to expand on my CommandSnippetAPI project by adding more services and microservice architecture. Safe to say it was not easy.
 
-### Architecture
+## Architecture
 
-#### Solution Architecture
+### Solution Architecture
 
-![Solution](Graphics/CommandServiceArchitecture.PNG)
+![Solution](Graphics/SolutionArchitecture.PNG)
 
-#### Platform Service Architecture
+### Platform Service Architecture
 
 ![Platform](Graphics/PlatformServiceArchitecture.PNG)
 
-#### Command Service Architecture
+### Command Service Architecture
 
 ![Command](Graphics/CommandServiceArchitecture.PNG)
 
